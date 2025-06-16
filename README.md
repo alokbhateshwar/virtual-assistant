@@ -1,8 +1,4 @@
-Absolutely! Here's your **all-in-one professional `README.md`** for the `Virtual Assistant` GitHub repository — polished, feature-rich, and ready to use:
 
----
-
-````markdown
 # 🧠 Virtual Assistant with Python
 
 This is a voice-activated **Virtual Assistant** built using Python. It can perform a variety of tasks such as opening websites, searching information online, telling the time, and much more — all using simple **voice commands**.
