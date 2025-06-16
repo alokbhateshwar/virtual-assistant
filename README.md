@@ -95,13 +95,6 @@ virtual-assistant/
 * Store command history and logs
 * Enable multi-language support
 
----
-
-## 📸 Screenshots / Demo
-
-*(Add screenshots or GIFs of your assistant in action if available)*
-
----
 
 ## 🧑‍💻 Author
 
